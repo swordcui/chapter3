@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smart-framework">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../smart-framework" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
